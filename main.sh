@@ -14,15 +14,16 @@ while read flname name en_name
 do
 	#echo "Student Name: $flname"
 
-  echo $en_name >> a.txt 
+  #echo $en_name >> a.txt 
+  echo ""
 done < $INPUT
 while read id class_id register_time is_paid external_id ed 
     do 
       
-      echo "Student Number : $id"
-       echo "Number of classes : $class_id "
-       echo "Student Name: $register_time"
-       echo ""
+      echo "Student Number : $id" && echo "Student Number : $id" >> a.txt
+       echo "Number of classes : $class_id "  && echo "Number of classes : $class_id ">> a.txt
+       echo "Student Name: $register_time" && echo "Student Name: $register_time" >> a.txt
+       echo "" && echo "" >> a.txt
       ek+=1
   #echo ''
 
