@@ -21,7 +21,8 @@ while read id class_id register_time is_paid external_id ed
       
       echo "Student Number : $id"
        echo "Number of classes : $class_id "
-       echo "$ED"
+       echo "Student Name: $register_time"
+       echo ""
       ek+=1
   #echo ''
 
