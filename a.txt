@@ -1,0 +1,87 @@
+"cn_name" "email" "relation" "birthday" "external_id" "en_name"
+蔡珍    "" Zhen Cai
+"Chen  Louisa"    "" Louisa Chen
+Joy He    "" Joy He
+候磊    "" Lei Hou
+Liu Wuyi    "" Sally LIU
+陶东华    "" Donghua Tao
+萧小虹    "" Xiao Hong Xiao
+许尤峰    "" Youfeng Xu
+闫明    "" Ming Yan
+Yanhong Zhang    "" Yanhong Zhang
+Jiangmin Zhao    "" Jiangmin Zhao
+Joshua Cui    "" Joshua Cui
+周怡伶    "" Lindsay Duan
+段卫民    "" Weimin Duan
+高天翼    "" Emily Gao
+高尚    "" Shang Gao
+洪懿德    "" YIDE HUNG
+Ran Jing    "" Ran Jing
+单嘉琳    "" Jialin Shan
+朱晓东    "" Xiaodong Zhu
+郭华章    "" Huazhang Guo
+黄子祺    "" Andrew Huang
+黄子越    "" Isabella Huang
+ANDREW LI    "" ANDREW LI
+VICTOR LI    "" VICTOR LI
+魏润章    "" Thomas Wei
+曾德明    "" Liam Zeng
+周楷杰    "" Jay Zhou
+Lucas Li    "" Lucas Li
+刘牧莀    "" Muchen Liu
+Alex    "" Alex Quan
+施昱辰    "" Albert Shi
+汪致一    "" Zhiyi Wang
+殷浩芫    "" haoyuan yin
+张明智    "" Devon Zhang
+Jeffrey Zhang    "" Jeffrey Zhang
+张一灵    "" Norah Zhang
+Cindy Kexin Chen    "" Cindy Chen
+陈抒哲    "" SYBIL CHEN
+胡雅馨    "" Isabelle Hu
+龙正好    "" Justin Long
+单嘉瑷    "" Jiaai Shan
+doris    "" doris wei
+Aaron Wu    "" Aaron Wu
+尹橡籽    "" Alisha Yin
+尹牧典    "" Arthur Yin
+袁天诚    "" Oliver yuan
+陈慧    "" Hui Chen
+Zou Liwei    "" Zou Liwei
+缪伽罗    "" Sophia Miao
+孙婷    "" Ting Sun
+Caroline Wang    "" Caroline Wang
+Yu Wang    "" Yu Wang
+杨君桐    "" Nicole Yang
+杨君乔    "" Renae Yang
+Luna Zhuo    "" Luna Zhuo
+刁乐恺    "" Eric Diao
+和嘉睿    "" Lucas He
+Kevin Li    "" Kevin Li
+孙博    "" Felix Sun
+Oscar Sun    "" Oscar Sun
+王艾文    "" Ivan Wang
+王艾惟    "" Ivey Wang
+扬旭    "" Charles Yong
+杨昇    "" Craig Yong
+李兆一    "" Li Ethan
+郭子轩    "" Kevin Guo
+Yijia    "" Yijia Mao
+Kejian Shi    "" Kejian Shi
+常梦瑶    "" Alice Chang
+缪德罗    "" Howard Miao
+Owen Moore    "" Owen Moore
+孙思成    "" Joshua Sun
+刁乐轩    "" Kevin Diao
+方于朗    "" Mark Fang
+费泓霖    "" Andrew Fei
+贺雨辰    "" Kevin He
+Jacob Lovings    "" Jacob Lovings
+Newman    "" Newman Shen
+肖华健    "" Steven Xiao
+周大智    "" Eric Zhou
+周大勇    "" Justin Zhou
+朱君和    "" Rex Zhu
+朱安雅    "" Sophia Zhu
+Ruoheng    "" Rochelle Zhang
+shu zhang    "" shu zhang
